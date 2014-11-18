@@ -1,0 +1,45 @@
+/*
+Theme Name: Dana Werpny - Personal Portfolio
+Theme URI: http://danawerpny.com;
+Description: The personal portfolio of Dana Werpny - Front-End Developer from Toronto, Canada
+Version: 1.0
+Author: Dana
+Author URI: http://danawerpny.com
+*/
+
+/* FONT IMPORTS */
+
+@import url(http://fonts.googleapis.com/css?family=Roboto:400,300,300italic,400italic,700,700italic,900,900italic);
+
+@import url(http://fonts.googleapis.com/css?family=Montserrat:400,700);
+
+/* CSS3 ANIMATIONS */
+
+@import "_animations.scss";
+
+/* NAV */
+@import "_nav.scss";
+
+/* BASE STYLES */
+
+@import "_base.scss";
+
+/* FRONT PAGE STYLES */
+
+@import "_front.scss";
+
+/* PORTFOLIO STYLES */
+
+@import "_portfolio.scss";
+
+/* SINGLE PORTFOLIO STYLES */
+
+@import "_portsingle.scss";
+
+/* SINGLE BLOG STYLE */
+
+@import "_blog.scss";
+
+/* CONTACT PAGE STYLE */
+
+@import "_contact.scss";
